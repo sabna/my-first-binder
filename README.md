@@ -1,2 +1,3 @@
 # my-first-binder
-https://mybinder.org/v2/gh/sabna/my-first-binder/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabna/my-first-binder/HEAD)
+
